@@ -1,2 +1,2 @@
 # trial-.002
-trial 1 p 2
+trial 1 p 2 .
